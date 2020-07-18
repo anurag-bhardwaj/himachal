@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7faaef8beb0e13fc66ea958ebe597d23",
+    "revision": "f978b619fbeb5b7014b24de91f719634",
     "url": "/himachal/index.html"
   },
   {
-    "revision": "e96328f787c1b8c4c4dc",
-    "url": "/himachal/static/css/main.888f9038.chunk.css"
+    "revision": "875457d3501a283d9303",
+    "url": "/himachal/static/css/main.c3f7f236.chunk.css"
   },
   {
     "revision": "58d5bde1db4b9d7609c8",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/himachal/static/js/2.0fd2cd01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e96328f787c1b8c4c4dc",
+    "revision": "875457d3501a283d9303",
     "url": "/himachal/static/js/main.5ea86954.chunk.js"
   },
   {
