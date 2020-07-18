@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/himachal/static/css/main.888f9038.chunk.css",
+    "main.js": "/himachal/static/js/main.5ea86954.chunk.js",
+    "main.js.map": "/himachal/static/js/main.5ea86954.chunk.js.map",
+    "runtime-main.js": "/himachal/static/js/runtime-main.46657b57.js",
+    "runtime-main.js.map": "/himachal/static/js/runtime-main.46657b57.js.map",
+    "static/js/2.0fd2cd01.chunk.js": "/himachal/static/js/2.0fd2cd01.chunk.js",
+    "static/js/2.0fd2cd01.chunk.js.map": "/himachal/static/js/2.0fd2cd01.chunk.js.map",
+    "index.html": "/himachal/index.html",
+    "precache-manifest.0ead0c10d3d52ee430c3a533de394699.js": "/himachal/precache-manifest.0ead0c10d3d52ee430c3a533de394699.js",
+    "service-worker.js": "/himachal/service-worker.js",
+    "static/css/main.888f9038.chunk.css.map": "/himachal/static/css/main.888f9038.chunk.css.map",
+    "static/js/2.0fd2cd01.chunk.js.LICENSE.txt": "/himachal/static/js/2.0fd2cd01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46657b57.js",
+    "static/js/2.0fd2cd01.chunk.js",
+    "static/css/main.888f9038.chunk.css",
+    "static/js/main.5ea86954.chunk.js"
+  ]
+}
